@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nemesiiepiscopip00nemeuoft_0007.png"; bbox 0 0 1982 3172; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 240 1186 1489 1280">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 240 1186 1489 1280">
+     <span class='ocr_line' id='line_1_1' title="bbox 240 1186 1489 1280; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 240 1189 623 1280; x_wconf 90' lang='lat' dir='ltr'>IVANO</span> <span class='ocrx_word' id='word_1_2' title='bbox 688 1189 849 1275; x_wconf 93' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 912 1186 1489 1278; x_wconf 86' lang='lat' dir='ltr'><strong>MUELLER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 514 1352 1210 1407">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 514 1352 1210 1407">
+     <span class='ocr_line' id='line_1_2' title="bbox 514 1352 1210 1407; baseline -0.004 -1"><span class='ocrx_word' id='word_1_4' title='bbox 514 1353 942 1407; x_wconf 84' lang='lat' dir='ltr'>GRATISSIMO</span> <span class='ocrx_word' id='word_1_5' title='bbox 976 1352 1210 1405; x_wconf 82' lang='lat' dir='ltr'><strong>ANIMO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 521 1518 1213 1703">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 521 1518 1213 1703">
+     <span class='ocr_line' id='line_1_3' title="bbox 743 1518 989 1569; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 743 1518 989 1569; x_wconf 88' lang='lat' dir='ltr'><strong>D·D·D</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 521 1634 1213 1703; baseline -0.006 0"><span class='ocrx_word' id='word_1_7' title='bbox 521 1637 592 1703; x_wconf 93' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 630 1634 1213 1702; x_wconf 89' lang='lat' dir='ltr'><strong>BURKHARD</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
